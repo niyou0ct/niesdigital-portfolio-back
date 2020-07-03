@@ -1,8 +1,8 @@
 from email.mime.text import MIMEText
 import smtplib
 
-account = 'yuki.niiuchi@niesdigital.com'
-password = 'Yn170409'
+account = 'sample@gmail.com'
+password = '******'
 
 to_email = account
 from_email = ''
